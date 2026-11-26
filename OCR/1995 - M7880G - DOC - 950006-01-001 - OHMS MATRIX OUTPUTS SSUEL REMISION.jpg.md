@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (336, 23)–(421, 44) mm: ISSUEL · WBS · WARD-BECK SYSTEMS · BBS NORTH BAY
 - **Wiring (first pass):** 68 connected wire groups from 905 runs; labelled ends: 43 mm → DSC NoStsd1; 29 mm → ProupT, Lud D; 20 mm → MICE; 18 mm → MICE; 16 mm → AMPLIFIEF, (12 SECTCYS)
 
-Every curve, box, word and wire group: [1995 - M7880G - DOC - 950006-01-001 - OHMS MATRIX OUTPUTS SSUEL REMISION (traced).json](../SCHEMATICS/1995%20-%20M7880G%20-%20DOC%20-%20950006-01-001%20-%20OHMS%20MATRIX%20OUTPUTS%20SSUEL%20REMISION%20(traced).json) (the CAD file: `1995 - M7880G - DOC - 950006-01-001 - OHMS MATRIX OUTPUTS SSUEL REMISION (traced).dxf`).
+Every curve, box, word and wire group: [1995 - M7880G - DOC - 950006-01-001 - OHMS MATRIX OUTPUTS SSUEL REMISION (traced).json](../SCHEMATICS/1995%20-%20M7880G%20-%20DOC%20-%20950006-01-001%20-%20OHMS%20MATRIX%20OUTPUTS%20SSUEL%20REMISION%20%28traced%29.json) (the CAD file: `1995 - M7880G - DOC - 950006-01-001 - OHMS MATRIX OUTPUTS SSUEL REMISION (traced).dxf`).
 
 ## Full text
 
