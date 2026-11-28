@@ -1,6 +1,6 @@
 # M7880G Director Script Switcher · Communication
 
-Ward-Beck Systems M7880G, 1993|26. Wiki page: [M7880G on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M7880G.html)
+Ward-Beck Systems M7880G, 1993|26. Wiki page: [M7880G on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880G-Director-Script-Switcher/)
 
 | Folder | What is in it | Files |
 |---|---|---|
